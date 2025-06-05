@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Christian",
+       "lastName": "Sugiono",
+       "gender": "Lanang",
+       "age": 21,
+       "nim": "2311104031"
+    },
+    {
+       "firstName": "Zulfa",
+       "lastName": "Iswahyudi",
+       "gender": "Lanang",
+       "age": 20,
+       "nim": "2311104010"
+    },
+    {
+       "firstName": "Tsaqif",
+       "lastName": "Saputra",
+       "gender": "Lanang",
+       "age": 19,
+       "nim": "2311104024"
+    }
+  ]
+}
